@@ -1,3 +1,4 @@
+// PH0B05 \\
 var ip = '';
 fetch('https://api.ipify.org/?format=json')
 .then(function(responce) {
